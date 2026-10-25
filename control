@@ -1,0 +1,8 @@
+Package: nexsus.forge.dash
+Name: Dash
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Ultra-fast package manager for iOS 12. Optimized for iPhone 6.
+Depends: dpkg (>= 1.19), sqlite3-lib
+Section: System
+Tags: role::enduser
